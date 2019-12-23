@@ -1,0 +1,18 @@
+{
+  "name": "homework-111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.4"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
